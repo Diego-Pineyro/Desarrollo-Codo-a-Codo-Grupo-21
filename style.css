@@ -1,0 +1,16 @@
+.nav-flotante {
+    width: 30px;
+    height: 30px;
+    position: fixed;
+    right: 50px;
+    bottom: 50px;
+    cursor: pointer;
+    background-color: cornflowerblue;
+    text-align: center;
+    align-items: center;
+    border-radius: 50%;
+}
+
+.shadow-efec {
+    box-shadow: 0px 0px 4px 2px cornflowerblue;
+}
